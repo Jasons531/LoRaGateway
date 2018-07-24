@@ -1,0 +1,3 @@
+---- rtimer_reset Matches (2 in 2 files) ----
+Rtimer.c (core\sys):rtimer_reset(void)
+Rtimer.h (core\sys):void rtimer_reset(void);

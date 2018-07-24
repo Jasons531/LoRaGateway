@@ -1,0 +1,5 @@
+---- win = Matches (4 in 3 files) ----
+Ctk-conio.c (e:\nbi项目\nbi_lora\nbi_lora代码\新版灌溉\master-v1.2\contiki-3.0\core\ctk):  struct ctk_window *win = w->window;
+User-app.c (e:\nbi项目\nbi_lora\nbi_lora代码\新版灌溉\master-v1.2\user):		RxInfo.win = flags->Bits.RxSlot+1;
+User-app.c (e:\nbi项目\nbi_lora\nbi_lora代码\新版灌溉\master-v1.2\user):		DEBUG(2,"win = %d snr = %d rssi = %d size = %d \r\n",RxInfo.win, RxInfo.snr, RxInfo.rssi, RxInfo.size);
+ViewRSSI.java (e:\nbi项目\nbi_lora\nbi_lora代码\新版灌溉\master-v1.2\contiki-3.0\examples\rssi-scanner):    JFrame win = new JFrame("RSSI Viewer");
